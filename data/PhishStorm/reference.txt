@@ -1,0 +1,1 @@
+https://github.com/zergeborg/fogetti-phish-storm/tree/master/src/main/resources/training-2016-06-13

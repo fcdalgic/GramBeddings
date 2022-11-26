@@ -1,0 +1,2 @@
+Dataset: https://www.kaggle.com/sid321axn/malicious-urls-dataset
+Implementation and Scores: https://www.kaggle.com/sid321axn/malicious-url-detection-using-ml-feat-engg

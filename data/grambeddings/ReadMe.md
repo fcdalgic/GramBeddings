@@ -1,0 +1,1 @@
+You can also download the published Grambeddings dataset from [here](https://web.cs.hacettepe.edu.tr/~selman/grambeddings-dataset/ "here").

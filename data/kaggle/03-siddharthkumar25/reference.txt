@@ -1,0 +1,2 @@
+Dataset: https://www.kaggle.com/siddharthkumar25/malicious-and-benign-urls
+Implementation and Scores: https://www.kaggle.com/akshaya1508/support-vector-machines
