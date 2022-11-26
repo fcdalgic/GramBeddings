@@ -13,4 +13,4 @@ You can also download the published Grambeddings dataset from [here](https://web
 # Project Structure
 |   Folder Name | Purpose  |
 | ----------- | ------------ |
-|   /data	|  Where the dataset files are stored under their unique dataset names.  For detailed explanation please refer to this [file](/dataset/Dataset.md). 
+|   /data	|  Where the dataset files are stored under their unique dataset names.  For detailed explanation please refer to this [file](https://github.com/fcdalgic/GramBeddings/tree/main/dataset/Dataset.md). 
