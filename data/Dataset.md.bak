@@ -4,5 +4,5 @@ he dataset files are stored under their unique dataset names.  For each unique (
 
 In this folder we represented whole dataset covered in out paper.
 
-In order to benchmar our model with your existring project, it is better to add your train and test files into new folder under this scope. You can check [this](/dataset/PDRCNN/make_dataset.py)
+In order to benchmar our model with your existring project, it is better to add your train and test files into new folder under this scope. You can check [this](https://github.com/fcdalgic/GramBeddings/tree/main/dataset/PDRCNN/make_dataset.py)
  example of converting another dataset file into the expected file format 
